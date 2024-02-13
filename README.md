@@ -1,4 +1,4 @@
-# Lifecycle of a Web Component: Exercises
+# Writing Your First Utility Classes: Exercises
 
 The companion repo to the corresponding lesson from [Component Odyssey](https://component-odyssey.com).
 
