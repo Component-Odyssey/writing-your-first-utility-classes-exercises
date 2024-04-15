@@ -6,7 +6,7 @@ The companion repo to the corresponding lesson from [Component Odyssey](https://
 
 Clone this repo using:
 
-`git clone git@github.com:Component-Odyssey/writing-your-first-utility-classes-exercises.git`
+`git clone https://github.com/Component-Odyssey/writing-your-first-utility-classes-exercises.git`
 
 Open the folder in VSCode
 
